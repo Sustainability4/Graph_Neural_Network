@@ -4,3 +4,7 @@ Graph Neural Networks can be divided into three different ideas : 1. Graph Data 
 Some benchmark datasets are Imagenet, Cora, Open Graph Benchmarks, TU Datasets. 
 
 Some python library : Spektral (based on tensorflow 2 and keras), Graph Nets libarary from deep minds
+
+Types of Graph : Graph.ipynb
+
+
